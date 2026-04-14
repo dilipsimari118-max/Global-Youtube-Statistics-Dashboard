@@ -20,7 +20,7 @@ Compare geographic distribution of channels
 📂 Categories: 19
 
 -📈 Dashboard Features
-1️⃣ Subscriber & Category Overview
+-1️⃣ Subscriber & Category Overview
 Top 10 channels by subscribers (e.g., T-Series, MrBeast)
 Category distribution (Entertainment, Music, Gaming, etc.)
 Filters: Country, Category
