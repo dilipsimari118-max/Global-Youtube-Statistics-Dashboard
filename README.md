@@ -5,21 +5,22 @@ This project presents an interactive Power BI dashboard analyzing global YouTube
 
 The dashboard is built using data from the Top 995 global YouTube channels (2005–2022) and provides actionable insights for content strategy and business intelligence.
 
-🎯 Objectives
+-🎯 Objectives
 Analyze channel growth trends over time
 Identify top-performing channels and categories
 Evaluate revenue and engagement patterns
 Compare geographic distribution of channels
-📊 Key Metrics
+
+-📊 Key Metrics
 📺 Total Channels: 995
 👥 Total Subscribers: 22.87 Billion
 👁 Total Views: 10.98 Trillion
 💰 Avg Yearly Earnings: 7.08 Million USD
 🌍 Countries Covered: 50
 📂 Categories: 19
-📈 Dashboard Features
 
--1️⃣ Subscriber & Category Overview
+-📈 Dashboard Features
+1️⃣ Subscriber & Category Overview
 Top 10 channels by subscribers (e.g., T-Series, MrBeast)
 Category distribution (Entertainment, Music, Gaming, etc.)
 Filters: Country, Category
