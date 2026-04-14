@@ -12,26 +12,36 @@ Evaluate revenue and engagement patterns
 Compare geographic distribution of channels
 
 -📊 Key Metrics
-📺 Total Channels: 995
-👥 Total Subscribers: 22.87 Billion
-👁 Total Views: 10.98 Trillion
-💰 Avg Yearly Earnings: 7.08 Million USD
-🌍 Countries Covered: 50
-📂 Categories: 19
+
+-📺 Total Channels: 995
+
+-👥 Total Subscribers: 22.87 Billion
+
+-👁 Total Views: 10.98 Trillion
+
+-💰 Avg Yearly Earnings: 7.08 Million USD
+
+-🌍 Countries Covered: 50
+
+-📂 Categories: 19
 
 -📈 Dashboard Features
+
 -1️⃣ Subscriber & Category Overview
 Top 10 channels by subscribers (e.g., T-Series, MrBeast)
 Category distribution (Entertainment, Music, Gaming, etc.)
 Filters: Country, Category
+
 -2️⃣ Growth Timeline & Geographic Distribution
 Channel creation trends (2005–2022)
 Peak growth year: 2014
 Top countries: USA, India, Brazil
+
 -3️⃣ Revenue & Engagement Intelligence
 Avg earnings by category (Shows highest)
 Engagement rate (views per subscriber)
 Top earning categories
+
 -4️⃣ Top Earners & Leaderboard
 Top earning channels (e.g., T-Series, Cocomelon)
 Revenue comparison charts
