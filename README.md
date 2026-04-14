@@ -18,33 +18,37 @@ Compare geographic distribution of channels
 🌍 Countries Covered: 50
 📂 Categories: 19
 📈 Dashboard Features
-1️⃣ Subscriber & Category Overview
+
+-1️⃣ Subscriber & Category Overview
 Top 10 channels by subscribers (e.g., T-Series, MrBeast)
 Category distribution (Entertainment, Music, Gaming, etc.)
 Filters: Country, Category
-2️⃣ Growth Timeline & Geographic Distribution
+-2️⃣ Growth Timeline & Geographic Distribution
 Channel creation trends (2005–2022)
 Peak growth year: 2014
 Top countries: USA, India, Brazil
-3️⃣ Revenue & Engagement Intelligence
+-3️⃣ Revenue & Engagement Intelligence
 Avg earnings by category (Shows highest)
 Engagement rate (views per subscriber)
 Top earning categories
-4️⃣ Top Earners & Leaderboard
+-4️⃣ Top Earners & Leaderboard
 Top earning channels (e.g., T-Series, Cocomelon)
 Revenue comparison charts
 Subscriber distribution by category
-🛠 Tools & Technologies
+
+-🛠 Tools & Technologies
 Power BI
 Data Modeling
 DAX (Data Analysis Expressions)
 Data Visualization
-🔍 Key Insights
+
+-🔍 Key Insights
 📈 Shows category generates highest revenue (~24.38M avg)
 🌍 USA and India dominate YouTube channel count
 🚀 2014 was the peak growth year for channel creation
 🎯 High engagement categories: Shows, Music, Education
-🚀 Business Impact
+
+-🚀 Business Impact
 Helps creators identify profitable content categories
 Assists companies in marketing & ad strategy
 Enables data-driven decisions for content growth
